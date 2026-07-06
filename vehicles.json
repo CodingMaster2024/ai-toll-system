@@ -1,0 +1,34 @@
+{
+    "KA64N0099": {
+        "owner": "Thananjai",
+        "phone": "+918248608053",
+        "email": "jaiv8turbo@gmail.com",
+        "balance": 1900.0,
+        "fines": 0,
+        "status": "valid"
+    },
+    "TN11BV2334": {
+        "owner": "Sheik Mohammed",
+        "phone": "+918248608053",
+        "email": "jaiv8turbo@gmail.com",
+        "balance": 1201.0,
+        "fines": 0,
+        "status": "valid"
+    },
+    "TN09BY9726": {
+        "owner": "Mohammed",
+        "phone": "+918248608053",
+        "email": "jaiv8turbo@gmail.com",
+        "balance": 2000.0,
+        "fines": 0,
+        "status": "valid"
+    },
+    "MH14BRE6899": {
+        "owner": "Ayisha Shifrin",
+        "phone": "+918248608053",
+        "email": "jaiv8turbo@gmail.com",
+        "balance": 1900.0,
+        "fines": 0,
+        "status": "valid"
+    }
+}

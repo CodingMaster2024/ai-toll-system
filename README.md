@@ -60,15 +60,21 @@ The system detects vehicle number plates from uploaded images, validates vehicle
 
 ## Dashboard Preview
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](dashboard_1.jpg)
+
+![Dashboard](dashboard_2.jpg)
 
 ## Vehicle Detection
 
-![Detection](screenshots/detection.png)
+![Detection](vehicle_1.jpg)
 
 ## Wallet Recharge
 
-![Recharge](screenshots/recharge.png)
+![Recharge](recharge_1.jpg)
+
+## 🎥 Demo
+
+[▶ Watch the Demo Video](ai_toll_demo.mp4)
 
 ---
 

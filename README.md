@@ -72,6 +72,14 @@ The system detects vehicle number plates from uploaded images, validates vehicle
 
 ![Recharge](recharge_1.jpg)
 
+## Toll Deduction Mail to User
+
+![Toll](mail_1.jpg)
+
+## Toll Recharge Mail to User
+
+![RechargeMail](mail_2.jpg)
+
 ## 🎥 Demo
 
 [▶ Watch the Demo Video](ai_toll_demo.mp4)
